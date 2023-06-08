@@ -1,4 +1,5 @@
 ## PRACTICING GIT
  
-Learning git push
+Learning git push and commiting changes on github
+
 
